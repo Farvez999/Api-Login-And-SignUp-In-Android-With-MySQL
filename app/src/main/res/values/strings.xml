@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Api Login Register</string>
+
+    <string name="loginhere">Already have an account? <u>login</u></string>
+    <string name="signuphere">Create a new account? SignUp</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+
+</resources>
